@@ -1,0 +1,17 @@
+﻿C:\Pruebas\proyectoFiguras\FigurasNET-master\FigurasNET.Test\Figuras\UnitTestCuadrado.cs
+C:\Pruebas\proyectoFiguras\FigurasNET-master\FigurasNET.Test\Figuras\UnitTestFabricaFiguras.cs
+C:\Pruebas\proyectoFiguras\FigurasNET-master\FigurasNET.Test\Figuras\UnitTestRectangulo.cs
+C:\Pruebas\proyectoFiguras\FigurasNET-master\FigurasNET.Test\Figuras\UnitTestTriangulo1.cs
+C:\Pruebas\proyectoFiguras\FigurasNET-master\FigurasNET.Test\UnitTest1.cs
+C:\Pruebas\proyectoFiguras\FigurasNET-master\FigurasNET.Test\Vehiculos\Factoria\UnitTestFactoriaVehiculos.cs
+C:\Pruebas\proyectoFiguras\FigurasNET-master\FigurasNET.Test\Vehiculos\Motores\UnitTestMotorEstandar.cs
+C:\Pruebas\proyectoFiguras\FigurasNET-master\FigurasNET.Test\Vehiculos\Motores\UnitTestMotorNuclear.cs
+C:\Pruebas\proyectoFiguras\FigurasNET-master\FigurasNET.Test\Vehiculos\Ruedas\UnitTestRuedaCompeticion.cs
+C:\Pruebas\proyectoFiguras\FigurasNET-master\FigurasNET.Test\Vehiculos\Ruedas\UnitTestRuedaEstandar.cs
+C:\Pruebas\proyectoFiguras\FigurasNET-master\FigurasNET.Test\Vehiculos\UnitTestVehiculo.cs
+C:\Users\Alumno\.nuget\packages\microsoft.net.test.sdk\17.8.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\Alumno\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\Alumno\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\Alumno\.nuget\packages\mstest.testadapter\3.1.1\build\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alumno\.nuget\packages\mstest.testadapter\3.1.1\build\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alumno\.nuget\packages\mstest.testadapter\3.1.1\build\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
